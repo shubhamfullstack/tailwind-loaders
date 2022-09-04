@@ -1,0 +1,51 @@
+{
+  "name": "tailwind-loaders",
+  "displayName": "Tailwind loaders/Spinner code snippets",
+  "description": "Code snippets for Tailwind loaders by mentonest",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#C80000",
+    "theme": "dark"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "homepage": "https://github.com/shubhamfullstack/tailwind-loaders/blob/main/README.md",
+  "bugs": {
+    "url": "https://github.com/shubhamfullstack/tailwind-loaders/issues",
+    "email": "shubham.fullstack08@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shubhamfullstack/tailwind-loaders.git"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
