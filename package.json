@@ -2,7 +2,7 @@
   "name": "tailwind-loaders",
   "displayName": "Tailwind loaders/Spinner code snippets",
   "description": "Code snippets for Tailwind loaders by mentonest",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -11,9 +11,10 @@
   ],
   "icon": "images/icon.png",
   "galleryBanner": {
-    "color": "#C80000",
-    "theme": "dark"
+    "color": "#fff",
+    "theme": "light"
   },
+  "publisher": "ShubhamAggarwal",
   "license": "SEE LICENSE IN LICENSE.txt",
   "homepage": "https://github.com/shubhamfullstack/tailwind-loaders/blob/main/README.md",
   "bugs": {

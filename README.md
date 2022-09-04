@@ -9,7 +9,7 @@ This extension contains code snippets for loaders/spinners in tailwindcss syntax
 All the snippets has prefix of tl - to remember this, this is made from abbrevation **T**ailwind **L**oader.
 
 ### Usage
-In order to use this extension, you have to type tl.loader-name and select proper loader from the popup. After selection of loader, it will populate the code with respect to the selected loader. You can change the color of loaders by modifying the tailwind classes.
+You must type tl.loader-name and choose the appropriate loader from the popup in order to utilise this extension. After choosing a loader, the code will be filled in according to that choice. By altering the tailwind classes, you can vary the colour of loaders.
 
 ![usage tutorial](videos/intro.gif)
 
